@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.journaldev.jsf.util.DataConnect;
+import com.esthinri.minhaloja.util.DataConnect;
 
 public class LoginDAO {
 

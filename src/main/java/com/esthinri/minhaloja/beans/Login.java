@@ -8,8 +8,8 @@ import javax.faces.bean.SessionScoped;
 import javax.faces.context.FacesContext;
 import javax.servlet.http.HttpSession;
 
-import com.journaldev.jsf.dao.LoginDAO;
-import com.journaldev.jsf.util.SessionUtils;
+import com.esthinri.minhaloja.dao.LoginDAO;
+import com.esthinri.minhaloja.util.SessionUtils;
 
 @ManagedBean
 @SessionScoped
